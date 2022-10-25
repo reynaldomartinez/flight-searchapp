@@ -1,0 +1,13 @@
+.search-card {
+    display: flex;
+}
+
+.card-content {
+    max-width: 600px;
+}
+
+.seat-prices {
+    display: flex;
+    width: 450px;
+    justify-content: space-between;
+}

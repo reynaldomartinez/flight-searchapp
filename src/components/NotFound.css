@@ -1,0 +1,15 @@
+.not-found {
+    background-image: url('../assets/backgrounds/notfound_airplane.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.not-found > h1 {
+    font-family: 'Anek Telugu', sans-serif;
+    font-size: 8em;
+    font-weight: 800;
+    color: rgb(31 41 55);
+    display: flex;
+    justify-content: center;
+}

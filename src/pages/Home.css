@@ -1,0 +1,50 @@
+
+.search-form {
+    width: 100% !important;
+}
+
+.form-wrapper {
+    margin-top: 0px;
+    margin-right:0px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+/* input padding */
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    margin-top: 10px !important;
+}
+
+.search-wrapper {
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+.welcome {
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Anek Telugu', sans-serif;
+}
+
+.css-13xfq8m-MuiTabPanel-root {
+    padding: 0 !important;
+}
+
+.css-1ujnqem-MuiTabs-root {
+    padding-top: 40px;
+    padding-left: 44px;
+}
+
+/* input div */
+.css-1lwbda4-MuiStack-root {
+    width: 75% !important;
+}
+
+/* Swapping cities */
+.css-1suf56w-MuiButtonBase-root-MuiFab-root {
+    margin-top: 125px !important;
+}
+
+.search-btn {
+    flex-grow: 1 !important;
+}

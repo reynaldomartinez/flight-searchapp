@@ -1,0 +1,32 @@
+/* form */
+.css-df76be {
+    gap: 50px;
+    padding-top: 50px;
+}
+/* last element padding */
+.css-46bh2p-MuiCardContent-root:last-child {
+    padding: 0 !important;
+}
+
+/* form inputs */
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    width: 100%;
+}
+
+/* form padding */
+.css-bhp9pd-MuiPaper-root-MuiCard-root {
+    padding: 40px;
+    min-height: 550px;
+    min-width: 500px;
+}
+
+.register-link {
+    text-decoration: underline;
+    color: blue;
+}
+
+.login-title {
+    width: 500px;
+    font-size: 40px;
+    font-family: 'Anek Telugu', sans-serif;
+}
