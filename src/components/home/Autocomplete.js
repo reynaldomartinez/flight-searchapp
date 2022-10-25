@@ -29,7 +29,7 @@ function Autocomplete() {
     }
   }
 
-  // console.log('keyword 2' ,keyword)
+  console.log('keyword 2' ,keyword);
   // console.log(airports)
   // id needed to search
   // console.log(fromId)
